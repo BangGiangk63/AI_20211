@@ -1,0 +1,18 @@
+0.6
+2018.1
+Apr  4 2018
+19:30:32
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1522801934,verilog,,,,glbl,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/Layer_1.v,1641651365,verilog,,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/Layer_2.v,,Layer_1,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/Layer_2.v,1641651365,verilog,,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/Layer_3.v,,Layer_2,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/Layer_3.v,1641651365,verilog,,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/Layer_4.v,,Layer_3,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/Layer_4.v,1641641177,verilog,,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/Sig_ROM.v,,Layer_4,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/Sig_ROM.v,1641636697,verilog,,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/Weight_Memory.v,,Sig_ROM,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/Weight_Memory.v,1641636697,verilog,,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/axi_lite_wrapper.v,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/include.v,Weight_Memory,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/axi_lite_wrapper.v,1641636697,verilog,,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/maxFinder.v,,axi_lite_wrapper,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/include.v,1641649752,verilog,,,,,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/maxFinder.v,1641636699,verilog,,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/neuron.v,,maxFinder,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/neuron.v,1641637729,verilog,,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/relu.v,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/include.v,neuron,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/relu.v,1641636699,verilog,,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/zynet.v,,ReLU,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/zynet.v,1641636701,verilog,,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/tb/top_sim.v,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/include.v,zyNet,,,,,,,,
+C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/tb/top_sim.v,1641636701,verilog,,,C:/Users/trinh/Downloads/neuralNetwork-master1/neuralNetwork-master/Tut-5/src/fpga/rtl/include.v,top_sim,,,,,,,,
